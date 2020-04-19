@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZZ_CheckBox__JVm</string>
+    <string name="TV_1_IDXML">Manakah Buah Yang Kamu Suka?</string>
+    <string name="TV_2_IDXML">Manakah Buah Yang Kamu Suka?</string>
+    <string name="CB_1_IDXML">Pisang</string>
+    <string name="CB_2_IDXML">Apel</string>
+    <string name="CB_3_IDXML">Jeruk</string>
+    <string name="B_1_IDXML">Kirim</string>
+</resources>
